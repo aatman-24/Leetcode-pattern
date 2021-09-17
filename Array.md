@@ -5,9 +5,10 @@
 
 ## Array
 
-| Problem Statement                                          | Tag  |  Question  | Solution |
+| Problem Statement                                          | Tag   |  Question  | Solution |
 | :------------------------------------------------------:   | :---: | :-------:  | :-------:|
-| Best Time to Buy and Sell Stock                            | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) |
+| Best Time to Buy and Sell Stock                            | Easy  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) |
+| Find Minimum in Rotated Sorted Array                       | Easy | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 
 
 
