@@ -5,11 +5,11 @@
 
 ## Array
 
-| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem                     |
-| :------------------------------------------------------    | :---: | :-------:  | :-------: | :-----------------------------:    |
-| Best Time to Buy and Sell Stock                            | Easy  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) |
-| Find Minimum in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Maximum Subarray](https://leetcode.com/problems/maximum-product-subarray/) [3Sum](https://leetcode.com/problems/3sum/)
-| Find Minimum in Rotated Sorted Array OKay Doiig asdfasdfa | Medium | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| Best Time to Buy and Sell Stock | Easy  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) | [Maximum Subarray](https://leetcode.com/problems/maximum-product-subarray/) |
+Find Minimum in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  [3Sum](https://leetcode.com/problems/3sum/)
+
 
 
 
