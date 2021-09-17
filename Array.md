@@ -1,6 +1,18 @@
 ## Array
 
-- [x] [E] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] E [Two Sum](https://leetcode.com/problems/two-sum/)   [Solution](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp)
+
+
+## Array
+
+| Problem Statement                                          | Tag  |  Question  | Solution |
+| :------------------------------------------------------:   | :-:  | :-------:  | :-------:|
+
+| Best Time to Buy and Sell Stock                            | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |  [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp)
+
+
+
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
