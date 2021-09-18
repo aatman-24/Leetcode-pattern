@@ -1,28 +1,19 @@
 ## Array
 
-- [x] E [Two Sum](https://leetcode.com/problems/two-sum/)   [Solution](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp)
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| 1. Two Sum | Easy  | [Link](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) | - |
+| 15. 3Sum   | Medium | [Link](https://leetcode.com/problems/3sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/15.%203Sum.cpp) | [Link](https://leetcode.com/problems/two-sum/) |
 
-
-## Array
+# Two Sum Pattern
 
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
 | :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
-| Best Time to Buy and Sell Stock | Easy  | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) | [Maximum Subarray](https://leetcode.com/problems/maximum-product-subarray/) |
+| 1. Two Sum | Easy  | [Link](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/1.%20Two%20Sum.cpp) | - |
+| 15. 3Sum   | Medium | [Link](https://leetcode.com/problems/3sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/15.%203Sum.cpp) | - |
+| 16. 3Sum Closest   | Medium | [Link](https://leetcode.com/problems/3sum-closest/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/16.%203Sum%20Closest.cpp) | 15. 3Sum |
+| 18. 4Sum   | Medium | [Link](https://leetcode.com/problems/4sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/18.%204Sum.cpp) | 15. 3Sum |
+| 454. 4Sum II   | Medium | [Link](https://leetcode.com/problems/4sum-ii//) | [Link](-) |  |
 
-Find Minimum in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  [3Sum](https://leetcode.com/problems/3sum/)
-
-
-
-
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [x] [3Sum](https://leetcode.com/problems/3sum/)
-- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 
