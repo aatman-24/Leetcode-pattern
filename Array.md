@@ -21,3 +21,8 @@
 
 
 
+
+## Duplicate in Array
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| 26. Remove Duplicates from Sorted Array | Easy  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | - |
+| 27. Remove Element | Easy  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/27.%20Remove%20Element.cpp) | 26. Remove Duplicates from Sorted Array |
