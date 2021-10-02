@@ -11,3 +11,14 @@
 | 1109. Corporate Flight Bookings | Medium  | [Link](https://leetcode.com/problems/corporate-flight-bookings/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/1109.%20Corporate%20Flight%20Bookings.cpp) | 1589. Maximum Sum Obtained of Any Permutation |
 | 1658. Minimum Operations to Reduce X to Zero | Medium  | [Link](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp) | - |
 | 918. Maximum Sum Circular Subarray | Medium  | [Link](https://leetcode.com/problems/maximum-sum-circular-subarr) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/918.%20Maximum%20Sum%20Circular%20Subarray.cpp) | 1658. Minimum Operations to Reduce X to Zero |
+
+
+
+# Daily Problems
+
+| 4. Median of Two Sorted Arrays | Medium  | [Link]() | [Link]() | - |
+
+
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| 1894. Find the Student that Will Replace the Chalk | Medium  | [Link](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [Link]() | - |
