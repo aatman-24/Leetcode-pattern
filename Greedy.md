@@ -1,0 +1,14 @@
+# Greedy
+
+| 4. Median of Two Sorted Arrays | Medium  | [Link]() | [Link]() | - |
+
+
+## Sorting
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| 12. Integer to Roman | Medium  | [Link](https://leetcode.com/problems/integer-to-roman/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/12.%20Integer%20to%20Roman.cpp) | - |
+
+
+
+# Other
+
