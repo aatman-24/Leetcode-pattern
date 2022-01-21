@@ -15,3 +15,4 @@
 | 17. Letter Combinations of a Phone Number | Medium  | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp) | 39. Combination Sum |
 | 46. Permutations | Medium  | [Link](https://leetcode.com/problems/permutations/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/46.%20Permutations.cpp) | - |
 | 47. Permutations II | Medium  | [Link](https://leetcode.com/problems/permutations-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/47.%20Permutations%20II.cpp) | 46. Permutations  |
+| 22. Generate Parentheses | Medium  | [Link](https://leetcode.com/problems/generate-parentheses/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/22.%20Generate%20Parentheses.cpp) | - |
