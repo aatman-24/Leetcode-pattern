@@ -16,3 +16,5 @@
 | 46. Permutations | Medium  | [Link](https://leetcode.com/problems/permutations/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/46.%20Permutations.cpp) | - |
 | 47. Permutations II | Medium  | [Link](https://leetcode.com/problems/permutations-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/47.%20Permutations%20II.cpp) | 46. Permutations  |
 | 22. Generate Parentheses | Medium  | [Link](https://leetcode.com/problems/generate-parentheses/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/22.%20Generate%20Parentheses.cpp) | - |
+| 52. N-Queens II | Hard  | [Link](https://leetcode.com/problems/n-queens-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/52.%20N-Queens%20II.cpp) | - |
+| 51. N-Queens | Hard  | [Link](https://leetcode.com/problems/n-queens/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/51.%20N-Queens.cpp) | 52. N-Queens II |
