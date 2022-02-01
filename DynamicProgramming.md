@@ -26,3 +26,8 @@
 | 63. Unique Paths II | Medium  | [Link](https://leetcode.com/problems/unique-paths-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/63.%20Unique%20Paths%20II.cpp) | 62. Unique Paths |
 | 64. Minimum Path Sum | Medium  | [Link](https://leetcode.com/problems/minimum-path-sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/64.%20Minimum%20Path%20Sum.cpp) | 62. Unique Paths |
 
+
+#Pattern-Fibonaci
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| 70. Climbing Stairs | Easy  | [Link](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/70.%20Climbing%20Stairs.cpp) | - |
