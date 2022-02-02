@@ -22,3 +22,10 @@
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
 | :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
 | 33. Search in Rotated Sorted Array | Medium  | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp) | - |
+
+
+## Binary Search in Matrix
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| 74. Search a 2D Matrix | Medium  | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/74.%20Search%20a%202D%20Matrix.cpp) | - |
+

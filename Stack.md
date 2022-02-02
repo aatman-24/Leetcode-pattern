@@ -6,7 +6,7 @@
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
 | 20. Valid Parentheses | Easy  | [Link](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/20.%20Valid%20Parentheses.cpp) | - |
 | 21. Merge Two Sorted Lists | Easy  | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/21.%20Merge%20Two%20Sorted%20Lists.cpp) | - |
-
+| 71. Simplify Path | Medium  | [Link](https://leetcode.com/problems/simplify-path/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/71.%20Simplify%20Path.cpp) | - |
 
 
 

@@ -27,7 +27,13 @@
 | 64. Minimum Path Sum | Medium  | [Link](https://leetcode.com/problems/minimum-path-sum/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/64.%20Minimum%20Path%20Sum.cpp) | 62. Unique Paths |
 
 
-#Pattern-Fibonaci
+## Pattern-Fibonaci
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
 | :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
 | 70. Climbing Stairs | Easy  | [Link](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/70.%20Climbing%20Stairs.cpp) | - |
+
+
+## DPOnString
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
+| 72. Edit Distance | Hard  | [Link](https://leetcode.com/problems/edit-distance/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/72.%20Edit%20Distance.cpp) | - |
