@@ -1,6 +1,6 @@
 # Array
 
-| 4. Median of Two Sorted Arrays | Medium  | [Link]() | [Link]() | - |
+|  | Medium  | [Link]() | [Link]() | - |
 
 ## Two Sum Pattern
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
@@ -19,7 +19,8 @@
 | 11. Container With Most Water  |  Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/11.%20Container%20With%20Most%20Water.cpp) | - |
 | 31. Next Permutation | Medium  | [Link](https://leetcode.com/problems/next-permutation/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/31.%20Next%20Permutation.cpp) | - |
 | 42. Trapping Rain Water | Hard  | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/42.%20Trapping%20Rain%20Water.cpp) | 11. Container With Most Water |
-
+| 75. Sort Colors | Medium  | [Link](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/75.%20Sort%20Colors.cpp) | - |
+| 80. Remove Duplicates from Sorted Array II | Medium  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp) | - |
 
 
 
