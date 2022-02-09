@@ -21,10 +21,16 @@
 | 42. Trapping Rain Water | Hard  | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/42.%20Trapping%20Rain%20Water.cpp) | 11. Container With Most Water |
 | 75. Sort Colors | Medium  | [Link](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/75.%20Sort%20Colors.cpp) | - |
 | 80. Remove Duplicates from Sorted Array II | Medium  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp) | - |
-
+| 88. Merge Sorted Array | Easy  | [Link](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/88.%20Merge%20Sorted%20Array.cpp) | - |
 
 
 ## Duplicate in Array
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
 | 26. Remove Duplicates from Sorted Array | Easy  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) | - |
 | 27. Remove Element | Easy  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/27.%20Remove%20Element.cpp) | 26. Remove Duplicates from Sorted Array |
+
+
+
+## Logic & Trick
+| Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
+| 89. Gray Code | Medium  | [Link](https://leetcode.com/problems/gray-code/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/89.%20Gray%20Code.cpp) | - |
