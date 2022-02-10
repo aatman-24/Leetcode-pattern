@@ -13,4 +13,4 @@
 | 82. Remove Duplicates from Sorted List II | Medium  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp) | - |
 | 83. Remove Duplicates from Sorted List | Easy  | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp) | 82. Remove Duplicates from Sorted List II |
 | 86. Partition List | Medium  | [Link](https://leetcode.com/problems/partition-list/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/86.%20Partition%20List.cpp) | - |
-
+| 92. Reverse Linked List II | Medium  | [Link](https://leetcode.com/problems/reverse-linked-list-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/92.%20Reverse%20Linked%20List%20II.cpp) | - |

@@ -19,3 +19,4 @@
 | 52. N-Queens II | Hard  | [Link](https://leetcode.com/problems/n-queens-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/52.%20N-Queens%20II.cpp) | - |
 | 51. N-Queens | Hard  | [Link](https://leetcode.com/problems/n-queens/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/51.%20N-Queens.cpp) | 52. N-Queens II |
 | 78. Subsets | Medium  | [Link](https://leetcode.com/problems/subsets/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/78.%20Subsets.cpp) | 39. Combination Sum |
+|  90. Subsets II  | Medium  | [Link](https://leetcode.com/problems/subsets-ii/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/90.%20Subsets%20II.cpp) | - |

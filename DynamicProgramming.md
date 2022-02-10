@@ -31,6 +31,7 @@
 | Problem Statement                                          | Tag   |  Question  | Solution  | Parent Problem        |
 | :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
 | 70. Climbing Stairs | Easy  | [Link](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/70.%20Climbing%20Stairs.cpp) | - |
+| 91. Decode Ways | Medium  | [Link](https://leetcode.com/problems/decode-ways/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/91.%20Decode%20Ways.cpp) | - |
 
 
 ## DPOnString
