@@ -32,6 +32,7 @@
 | :------------------------------------------------------    | :---: | :-------:  | :-------: | :----------------:    |
 | 70. Climbing Stairs | Easy  | [Link](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/70.%20Climbing%20Stairs.cpp) | - |
 | 91. Decode Ways | Medium  | [Link](https://leetcode.com/problems/decode-ways/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/91.%20Decode%20Ways.cpp) | - |
+| 96. Unique Binary Search Trees | Medium  | [Link](https://leetcode.com/problems/unique-binary-search-trees/) | [Link](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/96.%20Unique%20Binary%20Search%20Trees.cpp) | 95. Unique Binary Search Trees II |
 
 
 ## DPOnString
